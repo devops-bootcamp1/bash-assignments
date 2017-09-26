@@ -1,2 +1,2 @@
 # bash-assignments
-Assignments for Bash
+Assignments for Bash scripting
