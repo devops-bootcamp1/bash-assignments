@@ -3,6 +3,7 @@
 if [ $# -ne 1 ]
 then
 echo "Invalid Number of arguments"
+exit 1
 fi
 
 fileNamePath=$1
